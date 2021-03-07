@@ -8,5 +8,6 @@ for my thesis work
 ## https://github.com/adityabingi/DCGAN-TF2.0
 # 参考项目
 ## https://github.com/BlingBlingss/VAE-CWGAN-GP
-## https://github.com/XiubenWu/GANFORCWRU
-## https://github.com/whyre788/GAN-1D
+## [CWRU] https://github.com/XiubenWu/GANFORCWRU
+## https://github.com/whyre788/GAN-1D 
+## [CWRU] https://github.com/hezheug/vibration_gan
