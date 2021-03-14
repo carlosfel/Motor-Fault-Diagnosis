@@ -5,6 +5,7 @@ for my thesis work
 # 数据集
 ## https://github.com/hustcxl/Rotating-machine-fault-data-set
 ## https://github.com/cathysiyu/Mechanical-datasets
+## https://figshare.com/articles/dataset/Gear_Fault_Data/6127874/1
 # GAN的TF2实现
 ## https://github.com/hindupuravinash/the-gan-zoo
 ## https://github.com/marload/GANs-TensorFlow2
