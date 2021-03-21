@@ -17,3 +17,4 @@ for my thesis work
 ## https://github.com/whyre788/GAN-1D 
 ## [CWRU] https://github.com/hezheug/vibration_gan
 ## https://github.com/LixiangHan/GANs-for-1D-Signal
+## https://github.com/larocs/EMG-GAN
