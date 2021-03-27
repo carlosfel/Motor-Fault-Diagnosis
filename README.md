@@ -2,6 +2,9 @@
 for my thesis work
 # 工具箱，参考各种基本增强方法
 ## https://github.com/scikit-learn-contrib/imbalanced-learn
+# 主要参考项目
+## [CWRU] https://github.com/XiubenWu/GANFORCWRU
+## https://github.com/LixiangHan/GANs-for-1D-Signal
 # 数据集
 ## https://github.com/hustcxl/Rotating-machine-fault-data-set
 ## https://github.com/cathysiyu/Mechanical-datasets
@@ -18,6 +21,4 @@ for my thesis work
 ## [CWRU] https://github.com/hezheug/vibration_gan
 ## https://github.com/LixiangHan/GANs-for-1D-Signal
 ## https://github.com/larocs/EMG-GAN
-# 主要参考项目
-## [CWRU] https://github.com/XiubenWu/GANFORCWRU
-## https://github.com/LixiangHan/GANs-for-1D-Signal
+
