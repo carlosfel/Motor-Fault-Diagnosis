@@ -18,3 +18,6 @@ for my thesis work
 ## [CWRU] https://github.com/hezheug/vibration_gan
 ## https://github.com/LixiangHan/GANs-for-1D-Signal
 ## https://github.com/larocs/EMG-GAN
+# 主要参考项目
+## [CWRU] https://github.com/XiubenWu/GANFORCWRU
+## https://github.com/LixiangHan/GANs-for-1D-Signal
