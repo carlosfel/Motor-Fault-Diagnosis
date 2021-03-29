@@ -5,6 +5,7 @@ for my thesis work
 # 主要参考项目
 ## [CWRU] https://github.com/XiubenWu/GANFORCWRU
 ## https://github.com/LixiangHan/GANs-for-1D-Signal
+## [导入数据] https://github.com/a1018680161/FGPAA
 # 数据集
 ## https://github.com/hustcxl/Rotating-machine-fault-data-set
 ## https://github.com/cathysiyu/Mechanical-datasets
