@@ -6,7 +6,8 @@ for my thesis work
 ## [CWRU] https://github.com/XiubenWu/GANFORCWRU
 ## https://github.com/LixiangHan/GANs-for-1D-Signal
 ## [导入数据] https://github.com/a1018680161/FGPAA
-## [CWRU] https://github.com/hezheug/vibration_gan
+## [Metrics][CWRU] https://github.com/hezheug/vibration_gan
+## [Metrics] https://github.com/larocs/EMG-GAN
 # 数据集
 ## https://github.com/hustcxl/Rotating-machine-fault-data-set
 ## https://github.com/cathysiyu/Mechanical-datasets
