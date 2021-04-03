@@ -8,10 +8,16 @@ for my thesis work
 ## [导入数据] https://github.com/a1018680161/FGPAA
 ## [Metrics][CWRU] https://github.com/hezheug/vibration_gan
 ## [Metrics] https://github.com/larocs/EMG-GAN
+# 分类器
+## https://github.com/fboldt/SignalProcessing
+## https://github.com/renlikun1988/1D-CNN-for-CWRU
+## [CWRU] https://github.com/XiubenWu/GANFORCWRU
 # 数据集
 ## https://github.com/hustcxl/Rotating-machine-fault-data-set
 ## https://github.com/cathysiyu/Mechanical-datasets
 ## https://figshare.com/articles/dataset/Gear_Fault_Data/6127874/1
+# 系统参考
+## https://github.com/caidongqi/CNN-based_CWRU_Bearing_Fault_Diagonis
 # GAN的TF2实现
 ## https://github.com/hindupuravinash/the-gan-zoo
 ## https://github.com/marload/GANs-TensorFlow2
