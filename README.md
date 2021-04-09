@@ -18,6 +18,12 @@ for my thesis work
 ## https://figshare.com/articles/dataset/Gear_Fault_Data/6127874/1
 # 系统参考
 ## https://github.com/caidongqi/CNN-based_CWRU_Bearing_Fault_Diagonis
+# 系统模板
+## https://github.com/Jasonhy/ProductAnalysis
+## https://github.com/culeao/Job_analyze
+## https://github.com/Chauncey2/myProjects
+## https://github.com/1251240000/StcokVisualization
+## https://github.com/hrwhisper/twitterDataMining
 # GAN的TF2实现
 ## https://github.com/hindupuravinash/the-gan-zoo
 ## https://github.com/marload/GANs-TensorFlow2
