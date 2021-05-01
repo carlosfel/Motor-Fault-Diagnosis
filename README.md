@@ -2,6 +2,8 @@
 for my thesis work
 # 工具箱，参考各种基本增强方法
 ## https://github.com/scikit-learn-contrib/imbalanced-learn
+# 论文写作参考
+## https://github.com/woshiyiduohua/paper-reading
 # 主要参考项目
 ## [CWRU] https://github.com/XiubenWu/GANFORCWRU
 ## https://github.com/LixiangHan/GANs-for-1D-Signal
